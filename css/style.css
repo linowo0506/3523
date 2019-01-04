@@ -6,6 +6,7 @@ body{
 	display: flex;
 	justify-content: center;
 	background-size: auto;
+	position: relative;
 	width: 100%;
 	margin:0;
 }
@@ -14,7 +15,6 @@ a{
 	position: absolute;
 	width: 290px;
 	line-height: 30px;
-	left: 48px;
 	top: 170px;
 	background-color: transparent;
 	border:none;
