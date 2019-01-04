@@ -7,15 +7,19 @@ body{
 	justify-content: center;
 	background-size: auto;
 	position: relative;
-	width: 100%;
 	margin:0;
 }
 a{
 	color: transparent;
 	position: absolute;
-	width: 290px;
-	line-height: 30px;
-	top: 170px;
+	width: 780px;
+	line-height: 100px;
+	top: 420px;
+	left: 100px;
 	background-color: transparent;
 	border:none;
+}
+.pic{
+	width: 100%;
+	z-index: 0;
 }
